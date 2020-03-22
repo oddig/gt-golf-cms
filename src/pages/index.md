@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Haustferð GT-GOLF 2020
 image: /img/valledeleste4.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: '14-21 september, Valle del Este, Spánn'
 mainpitch:
   title: Why Kaldi
   description: >
